@@ -1,0 +1,33 @@
+:root {
+	/* fonts */
+	--font-base: "Source Sans Pro", "Helvetica Neue", "Arial", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
+	--nav-font: "Optima", "Helvetica Neue", "Arial", sans-serif;
+	--btn-font: "Lucida Grande", "Helvetica Neue", "Arial", sans-serif;
+	--font-input: "Source Sans Pro", "Lucida Grande", "Helvetica Neue", "Arial", sans-serif;
+	--font-topic: "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
+	/* size */
+	--font-size-s: 13px;
+	--font-size-m: 14px;
+	--font-size-l: 18px;
+	--font-size-xl: 20px;
+	--font-size-xxl: 42px;
+	/* color */
+	--color-green: #42B983;
+	--color-white: #ffffff;
+	--color-black: #000000;
+	--color-gray: #999;
+	--color-topic-gray: #444443;
+	--title-color-black: #222223;
+	--font-color-gray: #8B909A;
+	--font-color-dark-gray: #565656;
+	--font-color-form-gray: var(--color-gray);
+	--font-nav-color-gray: #656465;
+	--btn-light-gray: #f0f0f0;
+	--btn-green: var(--color-green);
+	--btn-gray: #dddddd;
+	--input-login: #454545;
+	--border-color-gray: #f0f0f0;
+	--border-color-hover-gray: #dadada;
+	--input-border: var(--btn-gray);
+	--input-border-focus: #acacac;
+}
